@@ -16,7 +16,8 @@ The company has 140 locations and have recently opened stores in 10 new cities. 
 Data: startupExpansion.xlsx and included US-Cities-Population.csv for more information on Store performance based on location. 
 
 
-# Tableau Analysis: [https://public.tableau.com/profile/alex2874#!/vizhome/StartupLocationPerformanceAnalysis/StartupLocationAnalysis] (Tableau Link: Startup Store Location Analysis) 
+# Tableau Analysis: 
+[https://public.tableau.com/profile/alex2874#!/vizhome/StartupLocationPerformanceAnalysis/StartupLocationAnalysis] (Tableau Link: Startup Store Location Analysis) 
 
 ## Sales Region Analysis: 
 In order to find out which region of the company's locations was best performing I had to identify the sales region and group them together. I did this by selecting the Sales Region and creating a group by selecting all states within the specific region. Once I had group the regions by state I then found the average revenue, average marketing spend, and calculated the ROMI (revenue/marketing spend) and add it to their respective regions. 
