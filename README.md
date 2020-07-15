@@ -25,6 +25,18 @@ In order to find out which region of the company's locations was best performing
 ## Revenue Map
 I then created a map that showed a representation of revenue from each city in comparison to one another with a color scale to show the differentiation. 
 
+## Location Analysis of Revenue/ Marketing Spend 
+I grouped together the Store ID and created a scatter plot based off the Sum of Revenue and Sum of Marketing Spend to find a understanding of where the different stores matched up against one another. I added a highlighted new expansion option so that you can review the 10 new stores in comparison to the other stores nation wide. Each point on the scatter plot gives you store specific details and performance. 
+
+## Revenue / Marketing Spend Cluster Trend Line 
+I thought that there could be more that made each location have better metrics and performance so I added US cities population into the analysis. I used the same clustering of the Stores revenue and marketing spend performance but now I added population in reference to the City the Store ID matched with. I then created a trend line by each cluster based off Tableau Statisical Analysis capabilites to find which cluster gained the most revenue per dollar spent on marketing. I then added the highlight new expansion feature to distinguish which stores on the scatter plot were the 10 new stores. 
+
+**Outcome:** Based on the scatter plot stores located in the orange scatter plot had the best performance in revenue for every dollar spent compared to the other clusters of stores. For every dollar spent on marketing the store would produce $7.32. You can view this by hovering over the orange trend line in tableau. Once you use the new expansion feature to find which 10 stores just opened; 4 out of the 10 stores are located in the orange cluster. Based upon this analysis it would be recommended for the company to invest more funds into marketing out of those 4 stores. 
+
+## Map of Revenue Clusters
+In order for you to visualize the different store locations with the knowledge and understanding we have gained from the Revenue / Marketing Spend Cluster Trend Line chart I added that information to the geographical location a long the United States to evaulate the different Store locations and revenue metrics. 
+
+
 
 
 
