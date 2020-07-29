@@ -1,4 +1,4 @@
-# Startup-Location-Analysis-Tableau
+# Startup-Retail-Location-Analysis-Tableau
 Analyzed nationwide stores performance and marketing spend using Tableau. 
 
 In this role, I was given the task of being a Data Scientist working for a laundry pickup service startup We Wash You Sleep. They are a small company and they cannot compete with the big players in major cities. The company strategy is to build a vast network in the smaller cities across the United States. 
